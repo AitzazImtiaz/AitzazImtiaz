@@ -16,4 +16,9 @@
 </details>
 <details>
  <summary>My Inspirations</summary>
- <p>
+ <p><a href="https://youtu.be/Qw_EO8qKydg"><img src="https://github.com/AitzazImtiaz/AitzazImtiaz/blob/main/images/images%20(27).jpeg"></p></a>
+ <p>Extremely inspirative, I want to become a CPA. Click on the image to see trailer. </p>
+ <p><img src="https://github.com/AitzazImtiaz/AitzazImtiaz/blob/main/images/images%20(28).jpeg"></p>
+ <p>This is my hero, every single Muslim American's hero and a hero for every American. Show a single good American who does not count on his sacrifice for motherland? He martyred for American integrity. He and I are same person serving same sides. It is not our jobs, it is our duties.</p>
+ 
+</details>
