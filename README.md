@@ -12,4 +12,8 @@
  <p>More visions?</p>
  <p>Destroy Russia!</p>
  <p>Destroy Millitants all over Afghanistan</p>
+ <p>Get Dollars ⊙﹏⊙</p>
+</details>
+<details>
+ <summary>My Inspirations</summary>
  <p>
