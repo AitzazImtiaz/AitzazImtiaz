@@ -8,9 +8,8 @@ I have been learning from my failures from 2016, and adopted a convention, to le
 ## Friends
 This is a sensitive matter. I clearly pick the best mate, not only qualifying minimum intelligence (I don't care about this) but also the best in my Loyalty checks. Due to my extreme requirements, I have almost no friends in my local area of Intelligence Conduct. While, I do definitely have well-reputable great friends from following countries ordered in Friend ranges.
 
-|Country|
-|-------|
 |Ukraine|
+|-------|
 |United States|
 |India|
 |United Kingdom|
