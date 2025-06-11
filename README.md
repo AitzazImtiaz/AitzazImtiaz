@@ -1,1 +1,2 @@
-<p align=left><img src="assets/images/dudu-cute.gif"></p>
+<p align=left><img src="assets/images/walrus-baby.gif"></p>
+
