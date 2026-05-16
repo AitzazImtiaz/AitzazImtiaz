@@ -6,5 +6,3 @@ This page is solely for my primary opinions on Generative Pre-trained Transforme
 This is a good [case study](https://arxiv.org/pdf/2506.08872v1) of how such generative AI ruins your brain.
 
 Pun: Acronym of my name is AI.
-
-I was given Chinese name from a best friend of mine: 明澈 (Míng chè).
