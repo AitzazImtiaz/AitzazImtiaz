@@ -8,3 +8,4 @@ This is a good [case study](https://arxiv.org/pdf/2506.08872v1) of how such gene
 Pun: Acronym of my name is AI.
 
 I was given Chinese name from a best friend of mine: 明澈 (Míng chè).
+I take my Japanese name which precedes my Chinese name as: 凛 あきと (Akito Rin).
